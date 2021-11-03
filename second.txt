@@ -1,0 +1,6 @@
+this is version 1 of the project
+i want this to go into commit
+whaaaaa
+this is a good commit
+lets try again
+
